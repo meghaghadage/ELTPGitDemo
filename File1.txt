@@ -2,17 +2,13 @@
 Hello world!
 
 
-change 1 :- For login feature for WI1.on remote mater updated by teammate to test
+
+change 1 :- For login feature for WI1.on remote mater updated by teammate to test.Enhanced login feature local master.
 change2 :-For bug1 fix.
 change 3:- By teammate on master for WI4.
 change 4:- For bug2 fix.
 change 5:- Change by teammate to check rebase for WI5.
-
-change 1 :-> for login feature for WI1.Updated login feature for change request1
-change2 :->for bug1 fix.
-change 3:-> by teammate on master for WI4.
-change 4:-> for bug2 fix.
-change 5:-> Change by teammate to check rebase for WI5.
 change 7:->to push remote
 change added to test the pull action to get latest copy from remote to local repo, Bug4
 change 8:->to test the rebase with conflict.
+change 9:-> updated for local master to tet rebase for Enhancement1.
